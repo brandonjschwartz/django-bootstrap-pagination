@@ -18,7 +18,7 @@ setup(
     url='https://github.com/brandonjschwartz/django-bootstrap-pagination',
     license='MIT licence, see LICENCE',
     description='Render Django Page objects as Bootstrap 3.x Pagination compatible HTML, upgraded for py3',
-    long_description=readme_text.encode('UTF-8'),
+    # long_description=readme_text.encode('UTF-8'),
     zip_safe=False,
     include_package_data=True,
     classifiers=[
